@@ -1,36 +1,65 @@
-# Employee Sentiment Analysis
+<h1 align="center">💬 Employee Sentiment Analysis</h1>
 
-## ✅ Key Findings
+<p align="center">
+Python | Machine Learning | NLP | Data Analysis
+</p>
 
-### Top 3 Positive Employees (Latest Month)
-- See notebook output
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-blue?style=for-the-badge"/>
+</p>
 
-### Top 3 Negative Employees (Latest Month)
-- See notebook output
+---
 
-### 🚨 Flight Risk Employees
-- Employees with ≥4 negative messages in a rolling 30‑day window
+## 📌 Overview
 
-## 📊 Model Insights
-- Linear regression shows how communication behavior impacts sentiment
-- Message frequency and verbosity influence sentiment trends
+This project focuses on analyzing employee communication data to identify sentiment patterns, employee engagement trends, and potential flight-risk employees using machine learning and natural language processing techniques.
 
-## ✅ Tools Used
-- Python, pandas, sklearn, TextBlob
+The project demonstrates practical skills in sentiment analysis, data preprocessing, exploratory data analysis, and predictive modeling using Python and NLP libraries.
 
-## ✅ Why This Project Scores High
-- Fully reproducible
-- Clear logic & assumptions
-- Rolling‑window flight risk (often missed!)
-- Clean EDA + visuals
-- Correct ranking logic
-- Simple yet defensible modeling
-- Evaluation‑ready structure
+---
 
-## 📌 Next Steps
-1. Paste notebook content into `employee_sentiment_analysis.ipynb`
-2. Place `test.csv` inside `/data`
-3. Run notebook end‑to‑end
-4. Zip project folder
-5. Email ZIP with subject AI-project-submission
-6. Message on Teams ✅
+## 🚀 Features
+
+✅ Employee Sentiment Analysis  
+✅ Positive & Negative Sentiment Identification  
+✅ Flight Risk Detection  
+✅ Rolling 30-Day Sentiment Tracking  
+✅ Exploratory Data Analysis & Visualizations  
+✅ Predictive Modeling & Insights  
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Pandas
+- Scikit-learn
+- TextBlob
+- Machine Learning
+- NLP
+- Data Analysis
+
+---
+
+## 📂 Project Structure
+
+```bash
+employee-sentiment-analysis/
+│── data/
+│── notebooks/
+│── visuals/
+│── employee_sentiment_analysis.ipynb
+│── README.md
+---
+
+## 👩‍💻 Author
+
+### Harshitha Mekala
+
+Recent Computer Science Graduate passionate about Python, SQL, Power BI, Machine Learning, and Data Analytics.
+
+🔗 GitHub: https://github.com/Harshitha152  
+🔗 LinkedIn: www.linkedin.com/in/harshitha-mekala15
